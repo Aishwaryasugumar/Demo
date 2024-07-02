@@ -1,0 +1,3 @@
+var nam1=(function(par){
+console.log(par)
+})(15)
